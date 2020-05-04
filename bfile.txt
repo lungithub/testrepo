@@ -1,11 +1,1 @@
-<<<<<<< HEAD
 one line
-two lines
-three lines
-four lines
-five lines
-=======
-Line1: bfile.txt
-Line2: bfile.txt
-Line3: bfile.txt
->>>>>>> 9ae2976cdea7d4d5d419161c365616552e6f7b26

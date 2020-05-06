@@ -1,5 +1,6 @@
 # acme-tiny
 
+asdfasdfasdfasdfasd
 
 **PLEASE READ THE SOURCE CODE! YOU MUST TRUST IT WITH YOUR PRIVATE ACCOUNT KEY!**
 
@@ -13,3 +14,8 @@ but they do fantastic work.
 ## How to use this script
 
 xxx
+=======
+## Feedback/Contributing
+
+This project has a very, very limited scope and codebase. I'm happy to receive
+bug reports and pull requests, but please don't add any new features. This

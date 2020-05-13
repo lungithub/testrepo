@@ -1,11 +1,6 @@
 # acme-tiny
 
-asdfasdfasdfasdfasd
-something here
-asdfasdffdsa
-
-2134134
-eqersd
+line one
 
 **PLEASE READ THE SOURCE CODE! YOU MUST TRUST IT WITH YOUR PRIVATE ACCOUNT KEY!**
 

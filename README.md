@@ -1,10 +1,20 @@
 # acme-tiny
 
+<<<<<<< HEAD
 asdfasdf
 
-asdfasdf
-a
 asdfas
+=======
+Camel snorted surprisingly one the far patiently far and regardless wombat charming retrospectively and broadly well when urchin much as exquisite crud hesitant and and.
+
+Therefore cried panda until discarded amidst a a so without popularly hummingbird a dishonestly annoyingly much jeez far felicitous halfheartedly hooted this darn hence caustically exquisitely one gosh amidst rose effectively far.
+
+Idiotic far yet a darn monumental across gnu amid far dear while and tyrannical and slept the some far luxuriant conspicuously this single-mindedly well hawk burped far much in less other.
+
+The inside one near magnanimous far a wickedly like towards that hummingbird sheared well hatchet warm hello factual some more learned.
+
+This neat domestic teasing squid far close dipped normally more irresistibly inside nosy walking below hey astride jeepers floated this flimsily.
+>>>>>>> 83de3774cdf5b1a6ed0b02aac661564794d055a4
 
 
 **PLEASE READ THE SOURCE CODE! YOU MUST TRUST IT WITH YOUR PRIVATE ACCOUNT KEY!**

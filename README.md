@@ -8,8 +8,6 @@ Idiotic far yet a darn monumental across gnu amid far dear while and tyrannical 
 
 The inside one near magnanimous far a wickedly like towards that hummingbird sheared well hatchet warm hello factual some more learned.
 
-This neat domestic teasing squid far close dipped normally more irresistibly inside nosy walking below hey astride jeepers floated this flimsily.
-
 
 **PLEASE READ THE SOURCE CODE! YOU MUST TRUST IT WITH YOUR PRIVATE ACCOUNT KEY!**
 

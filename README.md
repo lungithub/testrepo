@@ -1,12 +1,9 @@
 # acme-tiny
 
-<<<<<<< HEAD
-asdfasdf
+asdfasd
 
-asdfsdafasdfs
-asdfas
-=======
-Camel snorted surprisingly one the far patiently far and regardless wombat charming retrospectively and broadly well when urchin much as exquisite crud hesitant and and.
+
+asdf
 
 Therefore cried panda until discarded amidst a a so without popularly hummingbird a dishonestly annoyingly much jeez far felicitous halfheartedly hooted this darn hence caustically exquisitely one gosh amidst rose effectively far.
 

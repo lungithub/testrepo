@@ -1,11 +1,6 @@
 # acme-tiny
 
-asdfasdfasdfasdfasd
-something here
-asdfasdffdsa
-
-2134134
-eqersd
+news today
 
 **PLEASE READ THE SOURCE CODE! YOU MUST TRUST IT WITH YOUR PRIVATE ACCOUNT KEY!**
 
@@ -18,8 +13,7 @@ but they do fantastic work.
 
 ## How to use this script
 
-xxx
-=======
+
 ## Feedback/Contributing
 
 This project has a very, very limited scope and codebase. I'm happy to receive

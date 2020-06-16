@@ -1,6 +1,7 @@
 # acme-tiny
 
 news today
+all good
 
 **PLEASE READ THE SOURCE CODE! YOU MUST TRUST IT WITH YOUR PRIVATE ACCOUNT KEY!**
 
